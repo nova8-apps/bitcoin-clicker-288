@@ -11,10 +11,10 @@
 
 export const LEGAL_CONFIG = {
   displayName: "Bitcoin Clicker",
-  legalName: "",
+  legalName: "e.g zzzz",
   contactEmail: "bentleypainter@icloud.com",
-  website: "",
-  country: "",
+  website: "https://app.nova8.dev/privacy/288",
+  country: "e.g united states",
   hostedPolicyUrl: "https://nova8.dev/privacy/288",
   // Apple's Standard EULA URL - explicitly endorsed by Apple as the
   // default Terms of Use for apps that don't ship their own EULA.
